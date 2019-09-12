@@ -1,6 +1,8 @@
 # Praktikum Web 2019
 ## Teknik Informatika UPN VETERAN Yogyakarta
 
+![Image Illustration](https://image.freepik.com/free-vector/web-design-background_1300-39.jpg)
+Background vector created by [GraphiqaStock - www.freepik.com](https://www.freepik.com/free-photos-vectors/background)
 ### Goal
 Intinya ya cuma bagaimana menjadi fullstack web programmer.
 
