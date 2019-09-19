@@ -2,7 +2,9 @@
 ## Teknik Informatika UPN VETERAN Yogyakarta
 
 ![Image Illustration](https://image.freepik.com/free-vector/web-design-background_1300-39.jpg)
+<br>
 Background vector created by [GraphiqaStock - www.freepik.com](https://www.freepik.com/free-photos-vectors/background)
+
 ### Goal
 Intinya ya cuma bagaimana menjadi fullstack web programmer.
 
@@ -22,7 +24,7 @@ Ada banyak referensi diluar sana. Silahkan cari sendiri, atau bisa melalui beber
 2. [Tutorialspoint](https://www.tutorialspoint.com/php/index.htm)
 3. [W3schools](https://www.w3schools.com/php/)
 
-> "Jika kamu tidak sanggup menahan lelahnya belajar maka kamu harus sanggup menahan perihnya kebodohan"
+> "Jika kamu tidak sanggup menahan lelahnya belajar maka kamu harus sanggup menahan perihnya kebodohan"<br>
 > -Imam Syafi'i
 
 ### SELAMAT BELAJAR
